@@ -1,0 +1,3 @@
+Here is the new : 
+Hello this is FIRST file, Hello this is SECOND file
+Here is the result : Hello this is FIRST file, Hello this is SECOND file

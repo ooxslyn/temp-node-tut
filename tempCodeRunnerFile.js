@@ -1,0 +1,2 @@
+sayHi('marry')
+// sayHi(john)
